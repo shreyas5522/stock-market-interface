@@ -1,1 +1,1 @@
-# Stock Market Interface
+# Stock Market Trading Interface
