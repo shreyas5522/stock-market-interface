@@ -14,19 +14,19 @@
 ```bash
    git clone https://github.com/shreyas5522/stock-market-interface/
 ```
-2. Move to Folder:
+2. Go to Folder:
 ```bash
    cd stock-market-interface
 ```
-2. Install the dependencies:
+3. Install the dependencies:
 ```bash
    npm install
 ```
-3. In a new terminal tab, run the following command to start the datafeed server:
+4. In a new terminal tab, run the following command to start the datafeed server:
 ```bash
    python python3 datafeed/server3.py
 ```
-4. Finally, start the project:
+5. Finally, start the project:
 ```bash
    npm start
 ```
