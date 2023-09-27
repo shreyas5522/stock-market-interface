@@ -14,6 +14,10 @@
 ```bash
    git clone https://github.com/shreyas5522/stock-market-interface/
 ```
+2. Move to Folder:
+```bash
+   cd stock-market-interface
+```
 2. Install the dependencies:
 ```bash
    npm install
